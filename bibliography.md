@@ -1,4 +1,4 @@
-# The Ship _Brooklyn_
+# The Ship _Brooklyn_: A Bibliography
 
 ## Primary Sources
 
@@ -40,13 +40,13 @@
 
  - . _Explanations and Sailing directions to Accompany the Wind and Current Charts_. 7th ed. Philadelphia: E. C. & J. Biddle, 1855.
 
- - Montgomery, John B. _Letter Book_. October 1844-November 1848. In Records of the Office of Naval Records and Library (Record Group 45), Entry 395. Department of the Navy, the National Archives, Washington, D.C.
+- Montgomery, John B. _Letter Book_. October 1844-November 1848. In Records of the Office of Naval Records and Library (Record Group 45), Entry 395. Department of the Navy, the National Archives, Washington, D.C.
 
- - Skinner, James H. "History of James H. Skinner." Typescript, 1915. Harold B. Lee Library, Brigham Young University, Provo, Utah.
+- Skinner, James H. "History of James H. Skinner." Typescript, 1915. Harold B. Lee Library, Brigham Young University, Provo, Utah.
 
- - Soule, Frank, John H. Gihon, and James Nisbet. _The Annals of San Francisco_. New York: D. Appleton and Co., 1855.
+- Soule, Frank, John H. Gihon, and James Nisbet. _The Annals of San Francisco_. New York: D. Appleton and Co., 1855.
 
- - Woodruff, Wilford. _Wilford Woodruff's Journal, 1833-1898_. Scott G. Kenney, ed. 9 vols. Midvale, Utah: Signature Books, 1983.
+- Woodruff, Wilford. _Wilford Woodruff's Journal, 1833-1898_. Scott G. Kenney, ed. 9 vols. Midvale, Utah: Signature Books, 1983.
 
 
 ## Secondary Sources
@@ -101,9 +101,9 @@
  
  - . _Ships, Saints, and Mariners_. Salt Lake City: University of Utah Press, 1987.
 
- - Stark, Samuel. _Life and Travels of Daniel Stark and His People_. Salt Lake City: Privately published, 1955.
+- Stark, Samuel. _Life and Travels of Daniel Stark and His People_. Salt Lake City: Privately published, 1955.
 
- - Swede, George. "The Staten Island Ferry and the Sesquicentennial of New York's Towing Industry." Typescript, 1968. Copy at South Street Seaport Museum, New York City.
+- Swede, George. "The Staten Island Ferry and the Sesquicentennial of New York's Towing Industry." Typescript, 1968. Copy at South Street Seaport Museum, New York City.
 
 - Woodward, Ralph L., Jr. _Robinson Crusoe's Island_. Chapel Hill: University of North Carolina Press, 1969.
 
