@@ -2,7 +2,9 @@
 
 ## Primary Sources
 
-- Appleby, William I. Journal. 1841-49. Holograph and typescript, Church History Library, Salt Lake City.
+- Appleby, William I. [Autobiography and journal, 1848-1856](https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE991429). MS 1401 Fd. 1. Church History Library, Salt Lake City.
+
+ - . Journal. 1841-49. Holograph and typescript. Church History Library. _[Cannot locate in the CHL catalog]_
 
 - _Brooklyn_ Passenger Manifest. Port of Honolulu, 22 June 1846. Hawaii State Archives, Honolulu.
 
