@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006,
+            40.7143
+          ],
+          [
+            -73.125,
+            36.38591277287654
+          ],
+          [
+            -70.224609375,
+            32.32427558887655
+          ],
+          [
+            -68.203125,
+            30.372875188118016
+          ],
+          [
+            -61.962890625,
+            27.449790329784214
+          ],
+          [
+            -57.568359375,
+            24.5271348225978
+          ],
+          [
+            -50.537109375,
+            18.396230138028827
+          ],
+          [
+            -43.9453125,
+            12.726084296948184
+          ],
+          [
+            -35.595703125,
+            0.5273363048115169
+          ],
+          [
+            -33.83789062499999,
+            -6.227933930268672
+          ],
+          [
+            -34.892578125,
+            -14.349547837185362
+          ],
+          [
+            -36.2109375,
+            -24.206889622398023
+          ],
+          [
+            -53.876953125,
+            -50.903032831112554
+          ],
+          [
+            -60.732421875,
+            -57.32652122521709
+          ],
+          [
+            -63.6328125,
+            -61.01572481397616
+          ],
+          [
+            -68.90625,
+            -63.27318217465046
+          ],
+          [
+            -73.125,
+            -63.54855223203643
+          ],
+          [
+            -79.013671875,
+            -62.22699603631973
+          ],
+          [
+            -83.671875,
+            -60.02095215374802
+          ],
+          [
+            -87.5390625,
+            -55.87531083569677
+          ],
+          [
+            -89.56054687499999,
+            -51.508742458803326
+          ],
+          [
+            -89.56054687499999,
+            -48.28319289548349
+          ],
+          [
+            -86.220703125,
+            -43.83452678223682
+          ],
+          [
+            -78.82621765136719,
+            -33.63891394738683
+          ]
+        ]
+      },
+      "properties": {
+        "name": "New York City to Juan Fernández Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -155.452364,
+            19.603714
+          ],
+          [
+            -144.84375,
+            8.407168163601076
+          ],
+          [
+            -132.275390625,
+            -9.275622176792098
+          ],
+          [
+            -120.498046875,
+            -22.512556954051437
+          ],
+          [
+            -111.357421875,
+            -33.65120829920497
+          ],
+          [
+            -103.18359375,
+            -39.0277188402116
+          ],
+          [
+            -96.6796875,
+            -40.11168866559596
+          ],
+          [
+            -88.41796875,
+            -38.75408327579141
+          ],
+          [
+            -78.82621765136719,
+            -33.63891394738683
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Juan Fernández Islands to Sandwich Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -155.452364,
+            19.603714
+          ],
+          [
+            -146.513671875,
+            23.079731762449878
+          ],
+          [
+            -138.076171875,
+            27.137368359795584
+          ],
+          [
+            -128.935546875,
+            32.694865977875075
+          ],
+          [
+            -122.4511,
+            37.7363
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sandwich Islands to Yerba Buena"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yerba Buena",
+        "description": "Ship Brooklyn passengers arrive at Yerba Buena on 31 July 1846",
+        "date": "1846-07-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4052906036377,
+          37.79494890212038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Ship Brooklyn passengers depart New York harbor on 4 February 1846",
+        "date": "1846-02-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01128768920898,
+          40.70692923937242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juan Fernández Islands",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Ship Brooklyn passengers arrive at Juan Fernández Islands on 7 May 1846",
+        "date": "1846-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.826904296875,
+          -33.637489243170805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandwich Islands",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Ship Brooklyn passengers arrive at Sandwich Islands on 22 June 1846",
+        "date": "1846-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.45379638671875,
+          19.601194161263145
+        ]
+      }
+    }
+  ]
+}
