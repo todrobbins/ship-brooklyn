@@ -110,4 +110,4 @@
 
 ## Datasets
 
-- Robbins, Tod. [/data/map.geojson](Map of the Ship _Brooklyn_ Voyage), 2015.
+- Robbins, Tod. [Map of the Ship _Brooklyn_ Voyage](data/map.geojson), 2015.
