@@ -12,9 +12,9 @@
 
 - _Brooklyn_ Shipping Articles. Port of New York, 4 Feb. 1846. National Archives, Washington, D.C.
 
-- Crocheron, Augusta Joyce. "Augusta Joyce Crocheron." _In Representative Women of Deseret_, pp. 97-108. Salt Lake City: J. C. Graham & Co., 1884.
+- [Crocheron, Augusta Joyce](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)). "Augusta Joyce Crocheron." _In Representative Women of Deseret_, pp. 97-108. Salt Lake City: J. C. Graham & Co., 1884.
 
- - . "The Ship Brooklyn." _Western Galaxy_ 1 (1888): 78-84. Copy in Bancroft Library, Berkeley, California.
+ - [.](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)) "The Ship Brooklyn." _Western Galaxy_ 1 (1888): 78-84. Copy in Bancroft Library, Berkeley, California.
 
 - Downey, Joseph T. _The Cruise of the Portsmouth, 1845-1847_. Edited by Howard Lamar. New Haven: Yale University Library, 1958.
 
@@ -28,7 +28,7 @@
 
  - . "Voyage of the Ship Brooklyn." _Improvement Era_ 9 (1906): 794-98, 890-93. _Journal History of the Church_. Microfilm. Church History Library.
 
- - Kemble, Edward C. "Twenty Years Ago: The 'Brooklyn Mormons' in California." In _A Kemble Reader_, edited by Fred B. Rogers, pp. 7-25. San Francisco: California Historical Society, 1963. (First appeared in Sacramento Daily Union, 11 Sept. 1866.)
+- Kemble, Edward C. "Twenty Years Ago: The 'Brooklyn Mormons' in California." In _A Kemble Reader_, edited by Fred B. Rogers, pp. 7-25. San Francisco: California Historical Society, 1963. (First appeared in Sacramento Daily Union, 11 Sept. 1866.)
 
 - Larkin, Thomas O. _The Larkin Papers_. Edited by George P. Hammond. 5 vols. Berkeley: University of California Press, 1935.
 
@@ -48,7 +48,7 @@
 
 - Soule, Frank, John H. Gihon, and James Nisbet. _The Annals of San Francisco_. New York: D. Appleton and Co., 1855.
 
-- Woodruff, Wilford. _Wilford Woodruff's Journal, 1833-1898_. Scott G. Kenney, ed. 9 vols. Midvale, Utah: Signature Books, 1983.
+- [Woodruff, Wilford](http://mormonbiography.org/index.php?title=Wilford_Woodruff_(1807-1898)). _Wilford Woodruff's Journal, 1833-1898_. Scott G. Kenney, ed. 9 vols. Midvale, Utah: Signature Books, 1983.
 
 
 ## Secondary Sources
@@ -66,8 +66,6 @@
 - Carter, Kate B., comp. "The Mormons in California." _In Heart Throbs of the West_, vol. 7, pp. 389-432. Salt Lake City: Daughters of the Utah Pioneers, 1946.
 
  -. "The Ship _Brooklyn_ Saints." In Our Pioneer Heritage, vol. 3, pp. 473—587. Salt Lake City: Daughters of the Utah Pioneers, 1960.
-
-- Roberts, B. H. _A Comprehensive History of the Church of Jesus Christ of Latter-day Saints_. 6 vols. Salt Lake City: Deseret Book, 1930.
 
 - Christian, Lewis Clark. "Mormon Foreknowledge of the West." _Brigham Young University Studies_ 21 (Fall 1981): 403-15.
 
@@ -94,6 +92,8 @@
 - "Progress of the Mormon Emigrants from this City." Letter from an unnamed _Brooklyn_ voyager written from Juan Fernandez, 8 May 1846. Published in the _New York Journal of Commerce_ (26 Aug. 1846) and republished in the _New York Daily Tribune_ (27 Aug. 1846).
 
 - Radcliffe, Elizabeth W. V. _Captain Edward Richardson: A Memorial_. Privately published, 1923. Copy in New York Historical Society Library, New York City.
+
+- [Roberts, B. H](http://mormonbiography.org/index.php?title=Brigham_Henry_Roberts_(1857-1933)). _A Comprehensive History of the Church of Jesus Christ of Latter-day Saints_. 6 vols. Salt Lake City: Deseret Book, 1930.
 
 - Skottsberg, Carl. "The Island of Juan Fernandez." _The Geographical Review_ 5 (May 1918) : 362-83.
 
