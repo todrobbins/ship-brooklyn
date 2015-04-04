@@ -112,4 +112,6 @@
 
 ## Datasets
 
-- Robbins, Tod. [Map of the Ship _Brooklyn_ Voyage](data/map.geojson), 2015.
+- Robbins, Tod. [Map of the Ship _Brooklyn_ Passenger Gravesites](data/gravesites.geojson), 2015.
+
+- Robbins, Tod. [Map of the Ship _Brooklyn_ Voyage](data/voyage.geojson), 2015.
