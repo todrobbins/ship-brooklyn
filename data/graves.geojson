@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
+        "name": "Francis Andrew Bullen",
+        "birthDate": "1837-08-24",
+        "birthPlace": "Mercer, Somerset, Maine, United States",
+        "deathDate": "1851-03-26",
+        "deathPlace": "Salt Lake, Utah Territory, United States",
+        "cemetery": "Salt Lake City Cemetery",
+        "plot": "Plat C Block 14 Lot 1",
+        "findAGraveURL": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=19902869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85867309570312,
+          40.77781169287529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
+        "name": "Amanda Miller Evans Cheney",
+        "birthDate": "1833-10-21",
+        "birthPlace": "Pennsylvania, United States"
+        "deathDate": "1917-10-12",
+        "deathPlace": "Centerville, Davis, Utah, United States",
+        "cemetery": "Centerville City Cemetery",
+        "plot": "A-33-6-7",
+        "findAGraveURL": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86859726905823,
+          40.91195586575817
+        ]
+      }
+    }
+  ]
+}
