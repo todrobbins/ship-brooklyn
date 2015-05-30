@@ -7,6 +7,29 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "cemetery",
+        "name": "Amanda Miller Evans Cheney",
+        "birthDate": "1833-10-21",
+        "birthPlace": "Pennsylvania, United States",
+        "deathDate": "1917-10-12",
+        "deathPlace": "Centerville, Davis, Utah, United States",
+        "cemetery": "Centerville City Cemetery",
+        "plot": "A-33-6-7",
+        "findAGraveURL": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86859726905823,
+          40.91195586575817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
         "name": "Francis Andrew Bullen",
         "birthDate": "1837-08-24",
         "birthPlace": "Mercer, Somerset, Maine, United States",
@@ -30,20 +53,20 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "cemetery",
-        "name": "Amanda Miller Evans Cheney",
-        "birthDate": "1833-10-21",
-        "birthPlace": "Pennsylvania, United States",
-        "deathDate": "1917-10-12",
-        "deathPlace": "Centerville, Davis, Utah, United States",
-        "cemetery": "Centerville City Cemetery",
-        "plot": "A-33-6-7",
-        "findAGraveURL": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49410"
+        "name": "Isaac Rogers Robbins",
+        "birthDate": "1805-03-24",
+        "birthPlace": "Recklesstown, Burlington, New Jersey, United States",
+        "deathDate": "1883-01-08",
+        "deathPlace": "Provo, Utah, Utah, United States",
+        "cemetery": "Provo City Cemetery",
+        "plot": "",
+        "findAGraveURL": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=36574015"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.86859726905823,
-          40.91195586575817
+          -111.64647817611694,
+          40.2249914441288
         ]
       }
     }
