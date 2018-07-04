@@ -12,9 +12,9 @@
 
 - _Brooklyn_ Shipping Articles. Port of New York, 4 Feb. 1846. National Archives, Washington, D.C.
 
-- [Crocheron, Augusta Joyce](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)). ["Augusta Joyce Crocheron."](https://archive.org/stream/representativewo00crocrich#page/96/mode/2up) in [_Representative Women of Deseret_](https://archive.org/details/representativewo00crocrich), pp. 97-108. Salt Lake City: J. C. Graham & Co., 1884.
+- [Crocheron, Augusta Joyce](http://mormonbiography.org/Augusta_Joyce_Crocheron_(1844-1915)). ["Augusta Joyce Crocheron."](https://archive.org/stream/representativewo00crocrich#page/96/mode/2up) in [_Representative Women of Deseret_](https://archive.org/details/representativewo00crocrich), pp. 97-108. Salt Lake City: J. C. Graham & Co., 1884.
 
-- [Crocheron, Augusta Joyce](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)) "The Ship Brooklyn." _Western Galaxy_ 1 (1888): 78-84. Copy in Bancroft Library, Berkeley, California.
+- [Crocheron, Augusta Joyce](http://mormonbiography.org/Augusta_Joyce_Crocheron_(1844-1915)) "The Ship Brooklyn." _Western Galaxy_ 1 (1888): 78-84. Copy in Bancroft Library, Berkeley, California.
 
 - Downey, Joseph T. _The Cruise of the Portsmouth, 1845-1847_. Edited by Howard Lamar. New Haven: Yale University Library, 1958.
 
@@ -48,7 +48,7 @@
 
 - Soule, Frank, John H. Gihon, and James Nisbet. _The Annals of San Francisco_. New York: D. Appleton and Co., 1855.
 
-- [Woodruff, Wilford](http://mormonbiography.org/index.php?title=Wilford_Woodruff_(1807-1898)). _Wilford Woodruff's Journal, 1833-1898_. Scott G. Kenney, ed. 9 vols. Midvale, Utah: Signature Books, 1983.
+- [Woodruff, Wilford](http://mormonbiography.org/Wilford_Woodruff_(1807-1898)). _Wilford Woodruff's Journal, 1833-1898_. Scott G. Kenney, ed. 9 vols. Midvale, Utah: Signature Books, 1983.
 
 
 ## Secondary Sources
@@ -93,7 +93,7 @@
 
 - Radcliffe, Elizabeth W. V. _Captain Edward Richardson: A Memorial_. Privately published, 1923. Copy in New York Historical Society Library, New York City.
 
-- [Roberts, B. H](http://mormonbiography.org/index.php?title=Brigham_Henry_Roberts_(1857-1933)). _A Comprehensive History of the Church of Jesus Christ of Latter-day Saints_. 6 vols. Salt Lake City: Deseret Book, 1930.
+- [Roberts, B. H](http://mormonbiography.org/Brigham_Henry_Roberts_(1857-1933)). _A Comprehensive History of the Church of Jesus Christ of Latter-day Saints_. 6 vols. Salt Lake City: Deseret Book, 1930.
 
 - Skottsberg, Carl. "The Island of Juan Fernandez." _The Geographical Review_ 5 (May 1918) : 362-83.
 
