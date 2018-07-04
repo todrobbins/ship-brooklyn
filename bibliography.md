@@ -4,7 +4,7 @@
 
 - Appleby, William I. [Autobiography and journal, 1848-1856](https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE991429). MS 1401 Fd. 1. Church History Library, Salt Lake City.
 
- - . Journal. 1841-49. Holograph and typescript. Church History Library. _[Cannot locate in the CHL catalog]_
+- Appleby, William I. Journal. 1841-49. Holograph and typescript. Church History Library. _[Cannot locate in the CHL catalog]_
 
 - _Brooklyn_ Passenger Manifest. Port of Honolulu, 22 June 1846. Hawaii State Archives, Honolulu.
 
@@ -12,13 +12,13 @@
 
 - _Brooklyn_ Shipping Articles. Port of New York, 4 Feb. 1846. National Archives, Washington, D.C.
 
-- [Crocheron, Augusta Joyce](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)). "Augusta Joyce Crocheron." _In Representative Women of Deseret_, pp. 97-108. Salt Lake City: J. C. Graham & Co., 1884.
+- [Crocheron, Augusta Joyce](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)). ["Augusta Joyce Crocheron."](https://archive.org/stream/representativewo00crocrich#page/96/mode/2up) in [_Representative Women of Deseret_](https://archive.org/details/representativewo00crocrich), pp. 97-108. Salt Lake City: J. C. Graham & Co., 1884.
 
- - [.](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)) "The Ship Brooklyn." _Western Galaxy_ 1 (1888): 78-84. Copy in Bancroft Library, Berkeley, California.
+- [Crocheron, Augusta Joyce](http://mormonbiography.org/index.php?title=Augusta_Joyce_Crocheron_(1844-1915)) "The Ship Brooklyn." _Western Galaxy_ 1 (1888): 78-84. Copy in Bancroft Library, Berkeley, California.
 
 - Downey, Joseph T. _The Cruise of the Portsmouth, 1845-1847_. Edited by Howard Lamar. New Haven: Yale University Library, 1958.
 
- — ._Filings from an Old Saw_. Edited by Fred B. Rogers. San Francisco: John Howell, 1956.
+- Downey, Joseph T. _Filings from an Old Saw_. Edited by Fred B. Rogers. San Francisco: John Howell, 1956.
 
 - Duvall, Marius. _A Navy Surgeon in California 1846—1847: The Journal of Marius Duvall_. Edited by Fred B. Rogers. San Francisco: John Howell, 1962.
 
@@ -26,7 +26,7 @@
 
 - Horner, John M. "Personal History of the Author." In _National Finance and Public Money_, pp. 247-76. Honolulu: Hawaii Gazette Co., 1898.
 
- - . "Voyage of the Ship Brooklyn." _Improvement Era_ 9 (1906): 794-98, 890-93. _Journal History of the Church_. Microfilm. Church History Library.
+- Horner, John M. "Voyage of the Ship Brooklyn." _Improvement Era_ 9 (1906): 794-98, 890-93. _Journal History of the Church_. Microfilm. Church History Library.
 
 - Kemble, Edward C. "Twenty Years Ago: The 'Brooklyn Mormons' in California." In _A Kemble Reader_, edited by Fred B. Rogers, pp. 7-25. San Francisco: California Historical Society, 1963. (First appeared in Sacramento Daily Union, 11 Sept. 1866.)
 
@@ -40,7 +40,7 @@
 
 - Maury, Matthew F. "On the Navigation of Cape Horn." _American Journal of Science and Art_ 26 (1834): 54-63.
 
- - . _Explanations and Sailing directions to Accompany the Wind and Current Charts_. 7th ed. Philadelphia: E. C. & J. Biddle, 1855.
+- Maury, Matthew F. _Explanations and Sailing directions to Accompany the Wind and Current Charts_. 7th ed. Philadelphia: E. C. & J. Biddle, 1855.
 
 - Montgomery, John B. _Letter Book_. October 1844-November 1848. In Records of the Office of Naval Records and Library (Record Group 45), Entry 395. Department of the Navy, the National Archives, Washington, D.C.
 
@@ -57,7 +57,7 @@
 
 - Bancroft, Hubert H. _Archives of California. Departmental State Papers, IX-XVI. Misc._ (Catalogued as CA-32.) Bancroft Library, Berkeley, California, n.d.
 
- - . _History of California_. 7 vols. San Francisco: The History Co., 1886.
+- Bancroft, Hubert H. _History of California_. 7 vols. San Francisco: The History Co., 1886.
 
 - Brown, John Henry. Yerba Buena, 1846. San Francisco: Prepared for the American Library Association by Gelber, Lilienthal, Inc. and the Grabhorn Press, 1939.
 
@@ -65,7 +65,7 @@
 
 - Carter, Kate B., comp. "The Mormons in California." _In Heart Throbs of the West_, vol. 7, pp. 389-432. Salt Lake City: Daughters of the Utah Pioneers, 1946.
 
- -. "The Ship _Brooklyn_ Saints." In Our Pioneer Heritage, vol. 3, pp. 473—587. Salt Lake City: Daughters of the Utah Pioneers, 1960.
+- Carter, Kate B., comp. "The Ship _Brooklyn_ Saints." In Our Pioneer Heritage, vol. 3, pp. 473—587. Salt Lake City: Daughters of the Utah Pioneers, 1960.
 
 - Christian, Lewis Clark. "Mormon Foreknowledge of the West." _Brigham Young University Studies_ 21 (Fall 1981): 403-15.
 
@@ -100,8 +100,8 @@
 - Somerville, Boyle T., comp. _Ocean Passages for the World_. London: Hydrographic Dept., Admiralty, 1923.
 
 - Sonne, Conway B. _Saints on the Seas_. Salt Lake City: University of Utah Press, 1983.
- 
- - . _Ships, Saints, and Mariners_. Salt Lake City: University of Utah Press, 1987.
+
+- Sonne, Conway B. _Ships, Saints, and Mariners_. Salt Lake City: University of Utah Press, 1987.
 
 - Stark, Samuel. _Life and Travels of Daniel Stark and His People_. Salt Lake City: Privately published, 1955.
 
