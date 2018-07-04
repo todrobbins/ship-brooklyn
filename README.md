@@ -6,5 +6,5 @@ A bibliography and collection of data about the Ship _Brooklyn_ voyage of 1846.
 - [Bibliography](bibliography.md)
 
 ## [Data](data)
-  - [Map of the Ship _Brooklyn_ Passenger Gravesites](data/gravesites.geojson), 2015.
-  - [Map of the Ship _Brooklyn_ Voyage](data/voyage.geojson), 2015.
+  - [Map of the Ship _Brooklyn_ Passenger Gravesites](http://geojson.io/#id=github:todrobbins/ship-brooklyn/blob/master/data/gravesites.geojson&map=10/40.5694/-111.7575), 2015. ([geojson](data/gravesites.geojson))
+  - [Map of the Ship _Brooklyn_ Voyage](http://geojson.io/#id=github:todrobbins/ship-brooklyn/blob/master/data/voyage.geojson&map=2/-20.8/-93.8), 2015. ([geojson](data/voyage.geojson))
